@@ -1,6 +1,3 @@
 <Response>
-<Dial answerOnBridge="true" ringTone="none" callerId="+17408482535"
-<Number statusCallbackEvent="ringing answered completed" statusCallback=""
-statusCallbackMethod="POST">+17408482535</Number>
-</Dial>
+    <Dial timeout="10" record="true">+919912073505</Dial>
 </Response>
