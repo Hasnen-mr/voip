@@ -1,6 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Dial callerId="+17408482535" timeLimit="5400" recordingStatusCallback="">
-        <Number>+17473024431</Number>
-    </Dial>
+    <Dial callerId="+17408482535" timeout="10" record="true">+17473024431</Dial>
 </Response>
 
