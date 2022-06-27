@@ -1,6 +1,6 @@
 <Response>
-                <Dial answerOnBridge="true" ringTone="none" callerId="+17408482535"
-                    <Number statusCallbackEvent="ringing answered completed" statusCallback=""
-                    statusCallbackMethod="POST">+17408482535</Number>
-                </Dial>
-            </Response>
+<Dial answerOnBridge="true" ringTone="none" callerId="+17408482535"
+<Number statusCallbackEvent="ringing answered completed" statusCallback=""
+statusCallbackMethod="POST">+17408482535</Number>
+</Dial>
+</Response>
