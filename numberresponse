@@ -1,6 +1,6 @@
 <Response>
     <Dial callerId="+17408482535" action="" timeLimit="5400" recordingStatusCallback="">
-        <Number >+17473024431</Number>
+        <Number>+17473024431</Number>
     </Dial>
 </Response>
 
