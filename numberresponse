@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Dial callerId="+17408482535" timeout="10" record="true">+17473024431</Dial>
-</Response>
+                <Dial answerOnBridge="true" ringTone="none" callerId="+17408482535"
+                    <Number statusCallbackEvent="ringing answered completed" statusCallback=""
+                    statusCallbackMethod="POST">+17408482535</Number>
+                </Dial>
+            </Response>
